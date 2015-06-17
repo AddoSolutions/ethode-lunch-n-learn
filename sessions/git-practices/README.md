@@ -30,10 +30,16 @@ Use two branches, use `develop` and `master`.  Develop using develop, and make s
 
 ### Multiple (3+) Developers
 
-I recommend using Git Flow no matter what. Don't worry about the `develop` branch, but this will really help.
+I recommend using Git Flow, at least for features. Don't worry about the `develop` branch if you are not in production, but this process will really help.
 
 ## More Resources & Reading
 
+I posted some great resources I found on the matter below:
+
+* [Github Network Graph](https://github.com/ethode/ordercollector.com/network)
 * [Git Flow Library](https://github.com/nvie/gitflow)
+
+### More Reading & Theory
+
 * [Git Flow Manifesto](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Other Various Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
